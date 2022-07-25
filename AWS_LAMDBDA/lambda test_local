@@ -1,0 +1,5 @@
+pip install python-lambda-local==0.1.2
+
+run it 
+
+python-lambda-local -t 30f lambda_handler lamnda.py  test.json
